@@ -17,6 +17,8 @@ Given that after all I based my work on theirs and I do not see any sort of lice
 Arduino contains the sketch file for the Arduino Mega.
 Project contains a c++ project which compiles the plugin that goes inside the winamp plugin folder.
 
+The display module I used is TZT 256x64 with a SSD1322 controller communicated with arduino by SPI 4 wire protocol.
+
 Some images of the project can be seen here:
 https://i.imgur.com/ovlczuV.jpg
 https://i.imgur.com/WP3FwVS.jpg
